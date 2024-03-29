@@ -1,0 +1,88 @@
+body {
+    font-family: monospace, sans-serif;
+    margin: 0;
+    padding: 5;
+    background-image: url(https://3.bp.blogspot.com/-iu9m8FQXPTw/WQnwZWRzc1I/AAAAAAAAUgg/Y_Mr_5erAp0-4Jvr0j1SuIjBmT-uF3kRQCEw/s1600/Batik%2BKepri.jpg);
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #f0e738;
+    background-color: rgb(179, 235, 235);
+    border-radius: 3cqi;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.548);
+  }
+
+  h2 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family:monospace ;
+  }
+
+  .container1 {
+    overflow: hidden;
+    margin-bottom: auto;
+  }
+
+  .container1 .center-image {
+    float: center;
+    margin-right: 20px;
+  }
+
+  .container1 .center-image img {
+    float: center;
+    width: 500px;
+    border-radius: 30px;
+    border: #fbf7a3;
+  }
+
+  .container1 .center-content {
+    margin-top: 70px;
+    text-align: center;
+  }
+
+  .container1 p {
+    text-align: center;
+  }
+  
+  .container3 .bottom-images {
+    text-align: left;
+    float: left;
+    margin-bottom: 30px;
+    margin-top: 1px;
+    background-color:#fbf7a3;
+    width: 220px;
+    height: 450px;
+    border-radius: 5px;
+  }
+
+  .container3 .bottom-images img {
+    float: left;
+    width: 200px;
+    height: 130px;
+    margin: 10px;
+    border-radius: 5px; 
+  }
+
+  .container3 .right-content p {
+    margin-left: 250px;
+    margin-bottom: 80px;
+    margin-top: 50px;
+    text-align: justify;
+  }
+
+  .btn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #fbf7a3; 
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
